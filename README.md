@@ -2,8 +2,10 @@
 <p align="center"><img src="https://i.gifer.com/EmhT.gif" width="40%" height="auto"/></p>
 <!--  <p align="center"><img src="https://share.google/images/jl1WLHpxW9tLQkPDN" width="100%" height="auto"/></p>  -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I'm+Vaibhav+Singh+%3C3;Welcome+to+my+profile!" alt="Title"></img>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=High+Tower+Text&weight=200&size=22&letterSpacing=Normal&duration=1550&pause=1000&color=F7190B&random=true&width=435&lines=Hi+%2C+I'm+Vaibhav+Singh.+.+.+.+.+.+.;%3E_++White+Hat+Hacker+;%3E+_+Bug+Bounty+Hunter;%3E_+Security+Researcher" alt="Typing SVG" /> </img>
+
+
+    
   </a>
 </div>
 
