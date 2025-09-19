@@ -11,7 +11,7 @@
 
 <!-- ________________________________________________________________________________________________________ -->
 
-I'm **[`Vaibhav`](https://www.linkedin.com/in/vaibhav-singh-03556b253/)**, a hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in Reverse Engineering, offensive Security and Linux, my goal is to safeguard digital assets and contribute to a more secure online community.
+I'm **[`Vaibhav`](https://www.linkedin.com/in/vaibhav-singh-03556b253/)**, a hacker & Security Researcher and aspiring Offsec Researcher and Bug Hunter. With a strong passion for technology and expertise in Reverse Engineering, offensive Security and Linux, my goal is to safeguard digital assets and contribute to a more secure online community.
 
 
 <details>
