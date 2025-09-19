@@ -2,7 +2,7 @@
 <p align="center"><img src="https://i.gifer.com/EmhT.gif" width="40%" height="auto"/></p>
 <!--  <p align="center"><img src="https://share.google/images/jl1WLHpxW9tLQkPDN" width="100%" height="auto"/></p>  -->
 <div align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=High+Tower+Text&weight=200&size=22&letterSpacing=Normal&duration=1550&pause=1000&color=F7190B&center=true&random=true&width=435&lines=Hi+%2C+I'm+Vaibhav+Singh.+.+.+.+.+.+.;%3E_++White+Hat+Hacker+;%3E+_+Bug+Bounty+Hunter;%3E_+Security+Researcher" alt="Typing SVG" /> </img>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=High+Tower+Text&weight=200&size=22&letterSpacing=Normal&duration=1550&pause=1000&color=F7190B&center=true&random=true&width=435&lines=_Hi+%2C+I'm+Vaibhav+Singh.+.+.+.+.+.+.;%3E_++White+Hat+Hacker+;%3E+_+Bug+Bounty+Hunter;%3E_+Security+Researcher" alt="Typing SVG" /> </img>
 
  </a>
 </div>
@@ -11,7 +11,7 @@
 
 <!-- ________________________________________________________________________________________________________ -->
 
-I'm **[`Vaibhav`](https://www.linkedin.com/in/vaibhav-singh-03556b253/)**, a hacker & Security Researcher and aspiring Offsec Researcher and Bug Hunter. With a strong passion for technology and expertise in Reverse Engineering, offensive Security and Linux, my goal is to safeguard digital assets and contribute to a more secure online community.
+I'm **[`Vaibhav`](https://www.linkedin.com/in/vaibhav-singh-03556b253/)**, a hacker & Security Researcher and aspiring Offsec Researcher and Bug Hunter. <br>  With a strong passion for technology and expertise in Reverse Engineering, Offensive Security<br>and Linux , my goal is to safeguard digital assets and contribute to a more secure online community.
 
 
 <details>
@@ -20,7 +20,7 @@ I'm **[`Vaibhav`](https://www.linkedin.com/in/vaibhav-singh-03556b253/)**, a hac
 - **Name**: Vaibhav
 - **From**: Noida (Delhi NCR)
 - **White Box Tester**
-- I have experience in Procedural **Python**,**Reverse Engineering**,**Bash**,**Social engineering**,**Detective**
+- I have experience in **Procedural Programming**,**Anonmity**,**Reverse Engineering**,**Bash**,**Social engineering**,**Detective**
 - Improving knowledge in **Webapp Vulnerabilities**
 - Lifelong learner && CTF Player — always exploring **everything**
 - Reach me out at **vtthakurr01856@gmail.com**
