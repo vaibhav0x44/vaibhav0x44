@@ -32,8 +32,8 @@ I'm **[`Vaibhav`](https://www.linkedin.com/in/vaibhav-singh-03556b253/)**, a hac
 
 <h2 id="present_status"> Present Status </h3>
 
-<img width="5%" align='right' src="https://luvsascam-3.carrd.co/assets/images/image01.gif?v=07364e7c"><br>
-<img width="20%" align='right' src="https://ethiack.com/hs-fs/hubfs/city-min.gif?width=1371&height=1701&name=city-min.gif"> 
+<img width="50%" align='right' src="https://luvsascam-3.carrd.co/assets/images/image01.gif?v=07364e7c"><br>
+<!-- <img width="20%" align='right' src="https://ethiack.com/hs-fs/hubfs/city-min.gif?width=1371&height=1701&name=city-min.gif"> -->
 
 
 
