@@ -94,6 +94,8 @@ I'm **[`Vaibhav`](https://www.linkedin.com/in/vaibhav-singh-03556b253/)**, a hac
 
 <h2 id="donate" align=''> —— Support ₿ —— </h2>
 
+<h6 style="font-family: Consolas, monospace;"> if ""__NULL__" = "__Main__" </h6>
+
 <!-- <details>
 
 </details> --> 
