@@ -20,7 +20,7 @@ I'm **[`Vaibhav`](https://www.linkedin.com/in/vaibhav-singh-03556b253/)**, a hac
 - **Name**: Vaibhav
 - **From**: Noida (Delhi NCR)
 - **White Box Tester**
-- I have experience in **Procedural Programming**,**Anonmity**,**Reverse Engineering**,**Bash**,**Social engineering**,**Detective**
+- I have experience in **Procedural Programming**,**Anonymity**,**Reverse Engineering**,**Bash**,**Social engineering**,**Detective**
 - Improving knowledge in **Webapp Vulnerabilities**
 - Lifelong learner && CTF Player — always exploring **everything**
 - Reach me out at **vtthakurr01856@gmail.com**
