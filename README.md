@@ -39,7 +39,7 @@ I'm **[`Vaibhav`](https://www.linkedin.com/in/vaibhav-singh-03556b253/)**, a hac
 
 → Still Learning Bug hunting & Ethical Hacking.
 
-→ I write detailed write-ups & often participate as a delegate,<br><br>engaging in discussions. 
+→ I write detailed write-ups & often participate as a delegate,<br>engaging in discussions. 
 
 → Writing Some Useful Tools For Myself & Communities .
 
