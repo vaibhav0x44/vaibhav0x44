@@ -32,17 +32,18 @@ I'm **[`Vaibhav`](https://www.linkedin.com/in/vaibhav-singh-03556b253/)**, a hac
 
 <h2 id="present_status"> Present Status </h3>
 
-<img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
+<img width="50%" align='right' src="https://luvsascam-3.carrd.co/assets/images/image01.gif?v=07364e7c"> <br>
+<img width="30%" align='center' src="https://ethiack.com/hs-fs/hubfs/city-min.gif?width=1371&height=1701&name=city-min.gif">
 
-👉 Still Learning Bug hunting & Ethical Hacking.
+→ Still Learning Bug hunting & Ethical Hacking.
 
-👉 Managing Tech Communities & Content creator.
+→ I write detailed write-ups & often participate as a delegate, engaging in discussions. 
 
-👉 Writing Some Useful Tools For Myself & Communities .
+→ Writing Some Useful Tools For Myself & Communities .
 
-👉 Building & Contributing To Open Source Projects .
+→ Building & Contributing To Open Source Projects .
 
-👉 Currently Learning WebApplication Pentesting.
+→ Currently Learning WebApplication Pentesting.
 
 `Updating:`  Journey to Offensive Security Expert.
 
@@ -78,11 +79,12 @@ I'm **[`Vaibhav`](https://www.linkedin.com/in/vaibhav-singh-03556b253/)**, a hac
 
 
 <h2 id="github_stats" align=''> —— GitHub Stats —— </h2>
-<img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
+
+<img align="right" width="50%" src="https://wallpapers.com/images/featured-full/coding-background-9izlympnd0ovmpli.jpg"/>
  
   [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhav&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/vaibhav0x44/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=coffinxp&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/vaibhav0x44/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav0x44&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
+  <!--[![GitHub Streak](https://streak-stats.demolab.com?user=coffinxp&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
+ <p align="left"><a href="https://github.com/vaibhav0x44/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav0x44&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p> -->
 
 <br><br>
 
